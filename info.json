@@ -5,7 +5,7 @@
   "title": "Custom Map Gen Preset",
   "author": "Scott Sampson (FreakUK)",
   "contact": "",
-  "homepage": "",
+  "homepage": "https://github.com/Scott-Sampson/Factorio-Custom-Preset",
   "description": "Adds a custom map generation preset",
   "dependencies": ["base >= 0.15.0"]
 }
