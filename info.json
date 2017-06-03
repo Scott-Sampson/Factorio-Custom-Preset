@@ -1,0 +1,11 @@
+{
+  "name": "FactorioCustomPreset",
+  "version": "0.15.0",
+  "factorio_version": "0.15",
+  "title": "Custom Map Gen Preset",
+  "author": "Scott Sampson (FreakUK)",
+  "contact": "",
+  "homepage": "",
+  "description": "Adds a custom map generation preset",
+  "dependencies": ["base >= 0.15.0"]
+}
